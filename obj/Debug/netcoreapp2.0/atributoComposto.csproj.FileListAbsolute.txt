@@ -1,0 +1,10 @@
+C:\Users\01317235614\Desktop\Orientacao\atributoComposto\obj\Debug\netcoreapp2.0\atributoComposto.csproj.CoreCompileInputs.cache
+C:\Users\01317235614\Desktop\Orientacao\atributoComposto\obj\Debug\netcoreapp2.0\atributoComposto.AssemblyInfoInputs.cache
+C:\Users\01317235614\Desktop\Orientacao\atributoComposto\obj\Debug\netcoreapp2.0\atributoComposto.AssemblyInfo.cs
+C:\Users\01317235614\Desktop\Orientacao\atributoComposto\bin\Debug\netcoreapp2.0\atributoComposto.deps.json
+C:\Users\01317235614\Desktop\Orientacao\atributoComposto\bin\Debug\netcoreapp2.0\atributoComposto.runtimeconfig.json
+C:\Users\01317235614\Desktop\Orientacao\atributoComposto\bin\Debug\netcoreapp2.0\atributoComposto.runtimeconfig.dev.json
+C:\Users\01317235614\Desktop\Orientacao\atributoComposto\bin\Debug\netcoreapp2.0\atributoComposto.dll
+C:\Users\01317235614\Desktop\Orientacao\atributoComposto\bin\Debug\netcoreapp2.0\atributoComposto.pdb
+C:\Users\01317235614\Desktop\Orientacao\atributoComposto\obj\Debug\netcoreapp2.0\atributoComposto.dll
+C:\Users\01317235614\Desktop\Orientacao\atributoComposto\obj\Debug\netcoreapp2.0\atributoComposto.pdb
